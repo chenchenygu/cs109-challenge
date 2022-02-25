@@ -1,0 +1,4 @@
+https://kern.humdrum.org/cgi-bin/ksdata?location=musedata/mozart/quartet&file=k080-01.krn&format=kern
+https://kern.humdrum.org/cgi-bin/ksdata?location=musedata/mozart/quartet&file=k080-02.krn&format=kern
+https://kern.humdrum.org/cgi-bin/ksdata?location=musedata/mozart/quartet&file=k080-03.krn&format=kern
+https://kern.humdrum.org/cgi-bin/ksdata?location=musedata/mozart/quartet&file=k080-04.krn&format=kern
